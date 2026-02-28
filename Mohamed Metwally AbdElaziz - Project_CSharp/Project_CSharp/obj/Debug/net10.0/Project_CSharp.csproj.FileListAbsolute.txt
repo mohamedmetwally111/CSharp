@@ -1,0 +1,28 @@
+C:\Users\raya\OneDrive - October 6 University Egypt\Desktop\Project_CSharp\Project_CSharp\obj\Debug\net10.0\Project_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raya\OneDrive - October 6 University Egypt\Desktop\Project_CSharp\Project_CSharp\obj\Debug\net10.0\Project_CSharp.AssemblyInfoInputs.cache
+C:\Users\raya\OneDrive - October 6 University Egypt\Desktop\Project_CSharp\Project_CSharp\obj\Debug\net10.0\Project_CSharp.AssemblyInfo.cs
+C:\Users\raya\OneDrive - October 6 University Egypt\Desktop\Project_CSharp\Project_CSharp\obj\Debug\net10.0\Project_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\raya\OneDrive - October 6 University Egypt\Desktop\Project_CSharp\Project_CSharp\bin\Debug\net10.0\Project_CSharp.exe
+C:\Users\raya\OneDrive - October 6 University Egypt\Desktop\Project_CSharp\Project_CSharp\bin\Debug\net10.0\Project_CSharp.deps.json
+C:\Users\raya\OneDrive - October 6 University Egypt\Desktop\Project_CSharp\Project_CSharp\bin\Debug\net10.0\Project_CSharp.runtimeconfig.json
+C:\Users\raya\OneDrive - October 6 University Egypt\Desktop\Project_CSharp\Project_CSharp\bin\Debug\net10.0\Project_CSharp.dll
+C:\Users\raya\OneDrive - October 6 University Egypt\Desktop\Project_CSharp\Project_CSharp\bin\Debug\net10.0\Project_CSharp.pdb
+C:\Users\raya\OneDrive - October 6 University Egypt\Desktop\Project_CSharp\Project_CSharp\obj\Debug\net10.0\Project_CSharp.dll
+C:\Users\raya\OneDrive - October 6 University Egypt\Desktop\Project_CSharp\Project_CSharp\obj\Debug\net10.0\refint\Project_CSharp.dll
+C:\Users\raya\OneDrive - October 6 University Egypt\Desktop\Project_CSharp\Project_CSharp\obj\Debug\net10.0\Project_CSharp.pdb
+C:\Users\raya\OneDrive - October 6 University Egypt\Desktop\Project_CSharp\Project_CSharp\obj\Debug\net10.0\Project_CSharp.genruntimeconfig.cache
+C:\Users\raya\OneDrive - October 6 University Egypt\Desktop\Project_CSharp\Project_CSharp\obj\Debug\net10.0\ref\Project_CSharp.dll
+C:\Users\raya\OneDrive - October 6 University Egypt\Desktop\Mohamed Metwally AbdElaziz - Project_CSharp\Project_CSharp\bin\Debug\net10.0\Project_CSharp.exe
+C:\Users\raya\OneDrive - October 6 University Egypt\Desktop\Mohamed Metwally AbdElaziz - Project_CSharp\Project_CSharp\bin\Debug\net10.0\Project_CSharp.deps.json
+C:\Users\raya\OneDrive - October 6 University Egypt\Desktop\Mohamed Metwally AbdElaziz - Project_CSharp\Project_CSharp\bin\Debug\net10.0\Project_CSharp.runtimeconfig.json
+C:\Users\raya\OneDrive - October 6 University Egypt\Desktop\Mohamed Metwally AbdElaziz - Project_CSharp\Project_CSharp\bin\Debug\net10.0\Project_CSharp.dll
+C:\Users\raya\OneDrive - October 6 University Egypt\Desktop\Mohamed Metwally AbdElaziz - Project_CSharp\Project_CSharp\bin\Debug\net10.0\Project_CSharp.pdb
+C:\Users\raya\OneDrive - October 6 University Egypt\Desktop\Mohamed Metwally AbdElaziz - Project_CSharp\Project_CSharp\obj\Debug\net10.0\Project_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raya\OneDrive - October 6 University Egypt\Desktop\Mohamed Metwally AbdElaziz - Project_CSharp\Project_CSharp\obj\Debug\net10.0\Project_CSharp.AssemblyInfoInputs.cache
+C:\Users\raya\OneDrive - October 6 University Egypt\Desktop\Mohamed Metwally AbdElaziz - Project_CSharp\Project_CSharp\obj\Debug\net10.0\Project_CSharp.AssemblyInfo.cs
+C:\Users\raya\OneDrive - October 6 University Egypt\Desktop\Mohamed Metwally AbdElaziz - Project_CSharp\Project_CSharp\obj\Debug\net10.0\Project_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\raya\OneDrive - October 6 University Egypt\Desktop\Mohamed Metwally AbdElaziz - Project_CSharp\Project_CSharp\obj\Debug\net10.0\Project_CSharp.dll
+C:\Users\raya\OneDrive - October 6 University Egypt\Desktop\Mohamed Metwally AbdElaziz - Project_CSharp\Project_CSharp\obj\Debug\net10.0\refint\Project_CSharp.dll
+C:\Users\raya\OneDrive - October 6 University Egypt\Desktop\Mohamed Metwally AbdElaziz - Project_CSharp\Project_CSharp\obj\Debug\net10.0\Project_CSharp.pdb
+C:\Users\raya\OneDrive - October 6 University Egypt\Desktop\Mohamed Metwally AbdElaziz - Project_CSharp\Project_CSharp\obj\Debug\net10.0\Project_CSharp.genruntimeconfig.cache
+C:\Users\raya\OneDrive - October 6 University Egypt\Desktop\Mohamed Metwally AbdElaziz - Project_CSharp\Project_CSharp\obj\Debug\net10.0\ref\Project_CSharp.dll
